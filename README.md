@@ -9,4 +9,4 @@ I used Machine learning algorithms like Logistic regression model, KNN(K-Nearest
 5. Feature Separation and Splitting the Dataset
 6. Model Implementation (ML models)
 7. Model Comparison
-From the models it says that KNN, 
+From the models it says that KNN, SVM , Decision Tree are the best models
